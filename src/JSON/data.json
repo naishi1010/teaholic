@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "_id": "abc123",
+      "category": "Main Menu",
+      "title": "Sandwiches",
+      "imageUrl": "./media/sandwich.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Main Menu",
+      "title": "Maggi",
+      "imageUrl": "./media/maggi.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Main Menu",
+      "title": "Potato Delicacy",
+      "imageUrl": "./media/frenchfries.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Main Menu",
+      "title": "Burger",
+      "imageUrl": "./media/burger.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Main Menu",
+      "title": "bunmaska",
+      "imageUrl": "./media/bunmaska.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Hot Beverages",
+      "title": "Premium Tea",
+      "imageUrl": "./media/premium.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Hot Beverages",
+      "title": "Kulhad Tea",
+      "imageUrl": "./media/kulhad_tea.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Hot Beverages",
+      "title": "Coffee",
+      "imageUrl": "./media/coffee.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Cold Beverages",
+      "title": "Iced Tea",
+      "imageUrl": "./media/ice_tea.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Cold Beverages",
+      "title": "Cold Coffee",
+      "imageUrl": "./media/cold-coffee.jpg"
+    },
+    {
+      "_id": "abc123",
+      "category": "Cold Beverages",
+      "title": "Shakes",
+      "imageUrl": "./media/shakes.jpg"
+    }
+  ]
+}
