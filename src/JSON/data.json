@@ -66,5 +66,19 @@
       "title": "Shakes",
       "imageUrl": "./media/shakes.jpg"
     }
+  ],
+  "places": [
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/place1.jpeg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/place2.jpeg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/place3.jpeg"
+    }
   ]
 }

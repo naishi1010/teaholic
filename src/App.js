@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Place from './components/Places';
 import Products from './components/Products';
 import Special from './components/Special';
 function App() {
@@ -10,6 +11,7 @@ function App() {
         <Hero/>
         <Special/>
         <Products/>
+        <Place/>
       </main>
     </>
   );
