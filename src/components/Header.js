@@ -31,9 +31,9 @@ const Header = () =>{
           <li className="nav__item">
             <a href="#place" className="nav__link">Place</a>
           </li>
-          <li className="nav__item">
+          {/* <li className="nav__item">
             <a href="#blog" className="nav__link">Blog</a>
-          </li>
+          </li> */}
         </ul>
 
         <div className="nav__close" id="nav-close">

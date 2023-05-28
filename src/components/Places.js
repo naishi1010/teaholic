@@ -5,8 +5,8 @@ const Place = () =>{
     return <section className="place section" id="place">
     <div className="place__container container">
       <h2 className="section__title">
-        Make you feels good With <br />
-        our comfy fasilities
+        Makes you feel good With <br />
+        comfy environment
       </h2>
 
       <div className="place__content grid">
@@ -36,8 +36,8 @@ const Place = () =>{
         <div className="place__data">
           <h2 className="place__title">Find a place you love</h2>
           <p className="place__description">
-            We provide the best place to stay productive <br />
-            and focus with good vibes and beautiful design.
+            We provide the best place to stay positive <br />
+            and fantasize with good vibes and beautiful design.
           </p>
         </div>
       </div>

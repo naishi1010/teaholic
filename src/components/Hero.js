@@ -16,7 +16,7 @@ const Hero = () =>{
       With Energizing Kulhad Chaii!! <br />
       And Aesthetic Place.
     </h1>
-    <button className="hero__button" onClick={orderNow}>Order Now</button>
+    <button className="hero__button" onClick={orderNow}>Explore</button>
   </section>
 }
 

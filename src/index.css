@@ -365,6 +365,23 @@ button {
   background-color: var(--first-color);
   color: #fff;
 }
+
+.list_item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.list_name {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.list_price {
+  margin-right: 10px;
+  text-align: right;
+}
 /* end */
 
 /* place style */
