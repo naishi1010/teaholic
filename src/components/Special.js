@@ -1,14 +1,20 @@
+import {Fade} from 'react-reveal'
+
 const Special = () =>{
     return <div className="special section container" id="special">
     <div className="special__container">
       <div className="special__box">
+        <Fade left delay={500}>
         <h2 className="section__title">
           Best Tea that make you <br />
           happy and cheer you up!
         </h2>
+        </Fade>
+        
       </div>
 
       <div className="special__category">
+        <Fade bottom delay={800}>
         <div className="special__group">
           <div className="special__img__border">
             <img
@@ -48,6 +54,8 @@ const Special = () =>{
             Enjoy your Tea with some ice wtih true taste.
           </p>
         </div>
+        </Fade>
+        
       </div>
     </div>
   </div>

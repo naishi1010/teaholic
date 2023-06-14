@@ -382,6 +382,9 @@ button {
   margin-right: 10px;
   text-align: right;
 }
+.menu__card {
+  height: var(--menu-height)
+}
 /* end */
 
 /* place style */
